@@ -37,10 +37,6 @@ Clone the Repository:
  git clone https://github.com/your/repository.git
 cd repository
 ```
-Install Dependencies:
-```bash
-pip install -r requirements.txt
-```
 Run the Application:
 ```bash
 streamlit run app.py
