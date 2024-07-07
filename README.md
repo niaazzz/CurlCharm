@@ -28,7 +28,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 - Streamlit: For building the interactive web application.
 - OpenAI GPT-4: To generate personalized hair care routines and hairstyle recommendations.
 - Requests and BeautifulSoup: For web scraping to fetch product links.
-- 
+  
 ## Installation Steps
 
 Clone the Repository:
