@@ -110,7 +110,7 @@ st.markdown("""
             unsafe_allow_html=True)
 
 # Example image URL
-image_url = "images/CurlCharm.png"
+image_url = "CurlCharm.png"
 
 # Display image in the sidebar
 st.sidebar.image(image_url, caption='', width=250)
